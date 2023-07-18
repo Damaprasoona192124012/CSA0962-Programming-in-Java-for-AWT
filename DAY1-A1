@@ -1,0 +1,10 @@
+
+import java.util.*;
+Class abc{
+Public static void main(String args[])
+{
+int i = 0;
+i=i+1;
+System.out.println (i);
+}
+}
