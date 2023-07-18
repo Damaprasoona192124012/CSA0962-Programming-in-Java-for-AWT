@@ -1,0 +1,7 @@
+import java.util.*;
+Class abc{
+Public static void main(String args[])
+{
+Short i=2500, j=3000;
+System.out.println(”i+j”+ (i+j);
+} }
